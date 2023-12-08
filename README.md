@@ -1,9 +1,12 @@
 <!-- -### Hi there 👋 -->
-![](/cover.png "Cover")
+![](/cover.png "")
 
-### 👋About me
+### 👩About me
 <br>
-
+ 👋 Hi! I am a Final-year CSE student at Cumilla University and competitive problem solver with a keen interest in Web development. <br>
+🌱 I'm learning web development. I am proficient in Tailwind CSS, Daisy UI, MongoDB, and React. <br>
+🤔  I'm seeking opportunities to apply my skills and create innovative web solutions. <br>
+📧 Reach me out - shamima19shimu@gmail.com
 
 
 <!--

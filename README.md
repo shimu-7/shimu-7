@@ -1,14 +1,14 @@
 <!-- -### Hi there 👋 -->
 ![](/cover.png "")
 
-## 👩About me
+## 👩 About me
 
 ### 👋 Hi! I am a Final-year CSE student at Cumilla University and competitive problem solver with a keen interest in Web development. <br>
 ### 🌱 I'm learning web development. I am proficient in Tailwind CSS, Daisy UI, MongoDB, and React. <br>
 ### 🤔  I'm seeking opportunities to apply my skills and create innovative web solutions. <br>
 ###  📧 Reach me out - shamima19shimu@gmail.com
 
-## Technologies
+## 💻 Technologies
 <br>
 <p align="center">
 <img width="100" height="100" src="/images/HTML.png"/>
@@ -21,6 +21,11 @@
 <img width="100" height="100" src="/images/React-Dark.png"/>
 <img width="100" height="100" src="/images/Firebase-Dark.png"/>
 <img width="100" height="100" src="/images/MongoDB.png"/>
+</p>
+
+## 📈 Current Stats
+<p align="center">
+  <img width="60%" <img src="https://streak-stats.demolab.com?user=shimu-7&theme=onedark" alt="GitHub Streak" /> 
 </p>
 
 

@@ -11,16 +11,16 @@
 ## Technologies
 <br>
 <p align="center">
-<img src="/images/HTML.svg"/>
-<img src="/images/CSS.svg"/>
-<img src="/images/c++.svg"/>
-<img src="/images/TailwindCSS-Dark.svg"/>
-<img src="/images/JavaScript.svg"/>
+<img src="/images/HTML.png"/>
+<img src="/images/CSS.png"/>
+<img src="/images/c++.png"/>
+<img src="/images/TailwindCSS-Dark.png"/>
+<img src="/images/JavaScript.png"/>
 </p>
 <p align="center">
-<img src="/images/React-Dark.svg"/>
-<img src="/images/Firebase-Dark.svg"/>
-<img src="/images/MongoDB.svg"/>
+<img src="/images/React-Dark.png"/>
+<img src="/images/Firebase-Dark.png"/>
+<img src="/images/MongoDB.png"/>
 </p>
 
 

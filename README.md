@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- -### Hi there 👋 -->
+![](/cover.png "Cover")
+
+### 👋About me
+<br>
+
+
 
 <!--
 **shimu-7/shimu-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

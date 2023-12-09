@@ -25,12 +25,13 @@
 
 ## 📈 Current Stats
 <p align="center">
-  <img width="80%" <img src="https://streak-stats.demolab.com?user=shimu-7&theme=onedark" alt="GitHub Streak" /> 
+  <img width="80%" src="https://streak-stats.demolab.com?user=shimu-7&theme=onedark" alt="GitHub Streak" /> 
 </p>
 
 ## Profile Summary
 <p align="center">
-<img width="80%" <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark" alt="GitHub Streak" /> 
+<img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark" alt="GitHub Streak" />
+<img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shimu-7&theme=aura_dark&utcOffset=8" alt="GitHub Streak" /> 
 
 </p>
 

@@ -29,7 +29,7 @@
 </p>
 
 ## Profile Summary
-<p>
+<p align="center">
 <img width="80%" <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark" alt="GitHub Streak" /> 
 
 </p>

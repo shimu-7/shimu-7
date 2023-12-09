@@ -29,9 +29,9 @@
 </p>
 
 ## Profile Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark)
 <p align="center">
 <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark" alt="GitHub Streak" />
-<img width="80%" height="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shimu-7&theme=aura_dark&utcOffset=8" alt="GitHub Streak" /> 
 
 </p>
 

@@ -31,8 +31,8 @@
 ## Profile Summary
 
 <p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark" alt="GitHub Streak" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-7&theme=aura_dark)
 </p>
 
 
